@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tursh Olivea</h1>
 <h3 align="center">Passionate IT student</h3>
-<h2 align = "center">As a second-year student passionate about Data Science, I’ve been exploring the power of data to drive insights and decision-making. My journey includes working on projects involving data analysis, visualization, and machine learning, honing both my technical and problem-solving skills. I enjoy diving into diverse datasets, uncovering patterns, and building predictive models that solve real-world challenges.</h2>
+<p align = "center">As a second-year student passionate about Data Science, I’ve been exploring the power of data to drive insights and decision-making. My journey includes working on projects involving data analysis, visualization, and machine learning, honing both my technical and problem-solving skills. I enjoy diving into diverse datasets, uncovering patterns, and building predictive models that solve real-world challenges.</p>
 
 - 🌱 I’m currently learning **Python**
 
