@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tursh Olivea</h1>
 <h3 align="center">A passionate IT student</h3>
 
-- 🌱 I’m currently learning **Framework**
+- 🌱 I’m currently learning **Python**
 
 - 📫Reach me via **tursholivea@gmail.com**
 
